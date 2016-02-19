@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper_center">
+        {{ content }}
+      </div>
+    </div>
+    <div align="right">
+      <p class="rss-subscribe">Inscreva-se <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    </div>
+    {% include footer.html %}
+
+  </body>
+
+</html>
