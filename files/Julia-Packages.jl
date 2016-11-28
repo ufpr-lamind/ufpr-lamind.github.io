@@ -1,4 +1,4 @@
-#Versao2.2
+#Versao2.3
 # No Julia no usuário comum
 ##Misc
 Pkg.clone("git://github.com/kbarbary/TimeIt.jl.git")
@@ -27,13 +27,3 @@ Pkg.add("JuMP")
 Pkg.add("Ipopt")
 Pkg.add("Cbc")
 Pkg.add("Clp")
-
-# Para ser executado apos instalaçao
-## No terminal:
-### python3.4 -c 'import matplotlib; print(matplotlib.__version__, matplotlib.__file__)' 1.4.3 /Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/matplotlib/__init__.py
-
-## No julia
-### ENV["PYTHON"]=""
-### Pkg.build("PyCall")
-### using PyPlot
-### Pkg.checkout("Plots","dev")
