@@ -6,7 +6,7 @@ categories: instalacao
 ---
 <!--
 # Introdução
-O script Julia Packages foi criado com o objetivo de automatizar a instalação
+O Julia Packages foi criado com o objetivo de automatizar a instalação
 de  pacotes necessários do Julia. Sendo que cada versão do julia deve ser
 executada no usuário comum e em cada versão do julia.
 Atualmente o programa encotra-se na versao 2.3.
