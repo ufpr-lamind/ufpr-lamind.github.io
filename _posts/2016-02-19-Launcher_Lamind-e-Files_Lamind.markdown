@@ -7,37 +7,17 @@ categories: instalacao
 <!--
 # Introdução
 O script Launcher_Lamind foi criado com o objetivo de automatizar o download de
-arquivos em cada maquina. Deve ser executado no usuário comum.
+arquivos em cada maquina. Deve ser executado no usuário comum. O Launcher deve
+estar presente em cada máquina no diretorio home/lamind , onde este será o
+diretorio padrão dos arquivos de 'Files_Lamind.tar'. Para a primeria execução é
+necessario executar o comando 'chmod a+x  Laucher_Lamind.sh'.
 O arquivo compactado Files_Lamind.tar irá possuir os arquivos a serem baixados e
-poderão ser encontrados na pasta do usuário.
+será autmaticamente extraido pelo script 'Launcher_Lamind' na pasta
+'Files_Lamind'.
 Atualmente o programa Launcher_Lamind encotra-se na versao 2.3 e o Files_Lamind
 encontra-se em constante mudança.
 
-
-# Lista do conteúdo da última versão
-
-## Pacotes
-- Atom
-- Cbc
-- Clp
-- CUTEst
-- Gadfly
-- GR
-- IJulia
-- ImageMagick
-- Images
-- Immerse
-- Ipopt
-- JuMP
-- Plots
-- PyCall
-- PyPlot
-- Qwt
-- Rdatasets
-- TimeIt
-- UnicodePlots
-- Winston
-
 # Links para download
- - [Julia-Packages](http://ufpr-lamind.github.io/files/Julia-Packages.jl)
+ - [Launcher_Lamind](http://ufpr-lamind.github.io/files/Launcher_Lamind.jl)
+ - [Files_Lamind](https://ufpr-lamind.github.io/files/Files_Lamind.tar)
 -->
