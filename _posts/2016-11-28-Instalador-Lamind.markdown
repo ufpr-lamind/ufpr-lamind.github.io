@@ -4,7 +4,7 @@ title:  "Instalador Lamind"
 date:   2016-11-28
 categories: instalacao
 ---
-<!--
+
 # Introdução
 O script Instalador Lamind foi criado com o objetivo de automatizar a instalação
 de programas, bibliotecas e pacotes necessários para o funcionamento do Lamind.
@@ -78,4 +78,3 @@ Atualmente o programa encotra-se na versao 1.44.
 
 # Links para download
  - [Instalador Lamind](http://ufpr-lamind.github.io/files/Instalador-Lamind.sh)
--->
