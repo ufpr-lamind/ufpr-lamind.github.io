@@ -5,17 +5,20 @@
 
   <body>
 
-    {% include header.html %}
+    <div class="container-fluid">
 
-    <div class="page-content">
-      <div class="wrapper_center">
-        {{ content }}
+      {% include header.html %}
+
+      <div class="page-content">
+        <div class="wrapper_center">
+          {{ content }}
+        </div>
       </div>
+      <div align="right">
+        <p class="rss-subscribe">Inscreva-se <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+      </div>
+      {% include footer.html %}
     </div>
-    <div align="right">
-      <p class="rss-subscribe">Inscreva-se <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-    </div>
-    {% include footer.html %}
 
   </body>
 
