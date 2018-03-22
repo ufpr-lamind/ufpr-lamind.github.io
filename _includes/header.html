@@ -1,7 +1,6 @@
 <header class="site-header">
   <div class="logo-img">
-    <h1 class="site-title-1" href="#">Lamind</h1>
-    <h1 class="site-title-2" href="#">Ufpr</h1>
+    <h1 class="site-title" href="#">Lamind<br>Ufpr</h1>
   </div>
 
   <div class="wrapper">
@@ -22,13 +21,13 @@
       <div class="trigger">
         {% for my_page in site.pages %}
           {% if my_page.title != "Sobre"%}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          <a class="page-link animated hvr-underline-from-center" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
 
         {% for my_page in site.pages %} <!-- Faz About aparecer por ultimo-->
           {% if my_page.title == "Sobre"%}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          <a class="page-link animated hvr-underline-from-center" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
       </div>
