@@ -6,17 +6,26 @@ layout: default
 
   <h2 class="page-heading">Posts</h2>
 
-  <ul class="post-list">
     {% for post in site.posts %}
-      <li>
+    <div class="post">
+      <div class="post-content">
+
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}
             <span class="post-meta">{{ post.date | date: " %d/%m/%Y" }}</span>
           </a>
         </h2>
-      </li>
+        <p class="more"> Busque o next level. Se você não vê a oportunidade, ela passa. Trabalho é aprendizado, tudo é um só, onelife. Bora pra action. Quebre padrões e atinja a alta performance em todas as áreas da sua vida. Felicidade é a nova produtividade. Encare problemas como oportunidades. Não perde tempo com bullshit. Desafie-se. A vida acontece de você e não pra você. Construa algo que seja top. Encare problemas como oportunidades. Walk the f*ing talk. É você quem decide se o seu dia vai ser incrível ou não.  Trabalho é aprendizado, tudo é um só, onelife. Walk the f*ing talk. É voTrabalho é aprendizado, tudo é um só, onelife. Walk the f*ing talk. É você quem decide se o seu dia vai ser incrível ou não.  Construa algo que seja top. </p>
+      </div>
+
+    </div>
     {% endfor %}
-  </ul>
 
 </div>
+
+<script
+			  src="https://code.jquery.com/jquery-3.3.1.min.js"
+			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+			  crossorigin="anonymous"></script>
+<script src="js/main.js" type="text/javascript"></script>
