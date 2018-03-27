@@ -152,11 +152,12 @@
     font-size: 15px;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
+    text-align: center;
     @extend %clearfix;
 }
 
 .footer-col {
-    float: left;
+    // float: left;
     margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
 }
@@ -188,10 +189,20 @@
 }
 
 @include media-query($on-palm) {
+    h1 {
+      font-size: 4rem !important;
+    }
     .footer-col {
         float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+}
+
+@include media-query($on-little-palm) {
+    h1, #logo {
+      font-size: 3rem !important;
+      line-height: 100px !important;
     }
 }
 
@@ -245,7 +256,7 @@
 
 .post {
     width: 100%;
-    height: 250px;
+    height: auto;
     border-radius: 2px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
     transition: all 0.3s cubic-bezier(.25,.8,.25,1);
@@ -257,7 +268,7 @@
     }
 }
 .post-header {
-    border-bottom: 5px solid $blue-SlateBlue;
+    // border-bottom: 5px solid $blue-SlateBlue;
 
 }
 
@@ -278,17 +289,26 @@
 }
 
 .post-title {
-    font-size: 35px;
-    font-weight: 600;
+    font-size: 1.7rem;
+    line-height: 100px;
+    text-align: center;
+    color: #6a5acd;
+    // font-weight: 600;
     letter-spacing: 0;
-
-    @include media-query($on-laptop) {
-        font-size: 36px;
+    @include media-query($on-palm) {
+        font-size: 2rem !important;
     }
 }
 
 .post-content {
-    padding: 10px;
+    padding: 20px;
+
+    h1 {
+      text-align: center;
+      @include media-query($on-palm) {
+          font-size: 2rem !important;
+      }
+    }
 
     h2 {
         font-size: 32px;
@@ -317,6 +337,33 @@
     p {
         text-align: justify;
     }
+
+    li {
+      // list-style: none;
+      text-align: center;
+    }
+}
+
+.p-center p {
+  text-align: center;
+}
+
+#to-top {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgb(64, 64, 64);
+    color: rgb(238, 238, 238);
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    display: none;
+    text-align: center;
+    line-height: 3.7rem;
+    font-size: 1.5rem;
+    &:hover {
+      cursor: pointer
+    }
 }
 
 .animated {
@@ -324,7 +371,7 @@
     animation-fill-mode: both
 }
 
-.hvr-underline-from-center {
+.hvr-underline-from-left {
     display: inline-block;
     vertical-align: middle;
     -webkit-transform: perspective(1px) translateZ(0);
@@ -334,7 +381,7 @@
     overflow: hidden
 }
 
-.hvr-underline-from-center:before {
+.hvr-underline-from-left:before {
     content: "";
     position: absolute;
     z-index: -1;
@@ -351,9 +398,9 @@
     transition-timing-function: ease-out
 }
 
-.hvr-underline-from-center:hover:before,
-.hvr-underline-from-center:focus:before,
-.hvr-underline-from-center:active:before {
+.hvr-underline-from-left:hover:before,
+.hvr-underline-from-left:focus:before,
+.hvr-underline-from-left:active:before {
     left: 0;
     right: 0
 }
