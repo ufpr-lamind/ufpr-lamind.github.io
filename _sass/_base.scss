@@ -98,7 +98,7 @@ a {
     }
 
     &:hover {
-        color: darken(#6a5acd, 20%);
+        color: darken(rgba(212, 79, 79, 1), 20%);
         // text-decoration: underline;
     }
 }
