@@ -7,5 +7,6 @@ permalink: /about/
   Centro Politécnico - Setor de Ciências Exatas - Pc 13
 
 - Coordenador: [Abel Soares Siqueira](http://github.com/abelsiqueira)
-- Estagiário: [André Andrioli Buhler](http://github.com/andrebuhler)
-- Estagiário: [Andressa de Oliveira](http://github.com/andryolivei)
+- Estagiário: [Filipe Fenrich Niespodzinski](http://github.com/foolem)
+- Estagiário: [Julio Parodi](http://github.com/julioparodi)
+- Estagiário: [Renan Oclides](#)
