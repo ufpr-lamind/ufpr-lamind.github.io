@@ -2,34 +2,47 @@
 
 Dia      | Horário
 -------- | -------
-Segunda: | 07:30 às 21:00
-Terça:   | 07:30 às 14:15 e 15:30 às 21:30
-Quarta:  | 07:30 às 21:00
-Quinta:  | 07:30 às 14:15 e 15:30 às 21:30
-Sexta:   | 07:30 às 21:00
+Segunda: | 08:30 às 19:30
+Terça:   | 08:30 às 15:00
+Quarta:  | 08:30 às 12:00 e 16:00 às 19:30
+Quinta:  | 08:30 às 19:30
+Sexta:   | 08:30 às 19:30
 
 Os horários dos estagiários:
 
 
 HH:MM | Seg | Ter | Qua | Qui | Sex
 --: | :--- | --- | --- | --- | ---
-**07:30 - 11:30** |  Filipe  |  Filipe/Julio  |  Filipe  | Filipe/Julio | Filipe  
-**11:30 - 12:30** | Filipe | Julio | Filipe | Julio | Filipe
-**12:30 - 14:00** | Julio | Filipe | Julio | Filipe | Julio
-**14:00 - 15:30** | Julio |    X     | Julio |    X     | Julio   
-**15:30 - 18:30** | Julio | Renan | Julio | Renan | Julio    
-**18:30 - 21:00** | Renan | Renan | Renan | Renan | Renan
+**08:30 - 12:00** | Julio | Julio | Julio | Julio | Julio
+**12:30 - 13:30** | Julio | Julio |   X   | Julio | Julio
+**13:30 - 15:30** | Renan | Julio |   X   | Julio | Renan
+**15:30 - 16:30** | Renan |   X   |   X   | Renan | Renan
+**16:30 - 19:30** | Renan |   X   | Renan | Renan | Renan
 
 Os horário reservados:
 
  HH:MM     |  Seg  |  Ter  |  Qua  |  Qui  | Sex
   --:      | :---  |  ---  |  ---  |  ---  | ---
- **13:30** |       |       |       |       |
- **15:30** |       | CM106 |       | CM106 |  
- **17:30** |       |       |       |       |
- **19:30** |       |       |       |       |
- **21:30** |       |       |       |       |
+ **08:30** |   X   |   X   |   X   |   X   |   X
+ **11:30** |   X   |   X   |   X   |   X   |   X
+ **15:30** | CM103 |   X   |   X   | CM103 |   X
+ **17:30** |   X   |   X   |   X   |   X   | CM116
+ **19:30** |   X   |   X   |   X   |   X   | CM116
+ **21:30** |   X   |   X   |   X   |   X   |   X
 
-CM106 - Otimização I - Professor Abel
 
-15/Junho/2018 - Reserva NDE - professor Abel - 17:30-21:30
+CM103 - Professor Abel
+CM116 - Professor Abel
+
+Em Setembro/Outubro, via o MatematiCativa:
+- Latex dia 22 de Setembro (sábado) de 8:30 a 11:30;
+- Geogebra dias 29 de Setembro e 6 de Outubro  de 8:30 a 11:30.
+
+Em Novembro, durante o J3M:
+- Geogebra dias 6 e 8 de Novembro das 19:00 às 22:00;
+- Latex dia 7 de Novembro das 19:00 às 22:00.
+
+
+
+
+
