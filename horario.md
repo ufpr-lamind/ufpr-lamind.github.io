@@ -2,8 +2,8 @@
 
 Dia      | Horário
 -------- | -------
-Segunda: | 08:30 às 19:30
-Terça:   | 08:30 às 15:00
+Segunda: | 08:30 às 11:30 e 12:30 às 19:30
+Terça:   | 08:30 às 11:30 e 12:30 às 15:00
 Quarta:  | 08:30 às 13:30 e 16:30 às 19:30
 Quinta:  | 08:30 às 19:30
 Sexta:   | 08:30 às 19:30
@@ -13,7 +13,9 @@ Os horários dos estagiários:
 
 HH:MM | Seg | Ter | Qua | Qui | Sex
 --: | :--- | --- | --- | --- | ---
-**08:30 - 13:30** | Julio | Julio | Julio | Julio | Julio
+**08:30 - 11:30** | Julio | Julio | Julio | Julio | Julio
+**11:30 - 12:30** |   X   |   X   | Renan | Renan | Renan
+**12:30 - 13:30** | Julio | Julio | Julio | Julio | Julio
 **13:30 - 15:30** | Renan | Julio |   X   | Julio | Renan
 **15:30 - 16:30** | Renan |   X   |   X   | Renan | Renan
 **16:30 - 19:30** | Renan |   X   | Renan | Renan | Renan
