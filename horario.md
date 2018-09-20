@@ -35,6 +35,9 @@ Os horário reservados:
 CM103 - Professor Abel
 CM116 - Professor Abel
 
+Em Setembro, reservas do professor Roberto:
+-21 (sexta) e 25 (terça) de Setembro, de 15:30 a 17:30.
+
 Em Setembro/Outubro, via o MatematiCativa:
 -Latex dia 22 de Setembro (sábado) de 8:30 a 11:30;
 -Geogebra dias 29 de Setembro e 6 de Outubro  de 8:30 a 11:30.
@@ -42,8 +45,3 @@ Em Setembro/Outubro, via o MatematiCativa:
 Em Novembro, durante o J3M:
 -Geogebra dias 6 e 8 de Novembro das 19:00 às 22:00;
 -Latex dia 7 de Novembro das 19:00 às 22:00.
-
-
-
-
-
