@@ -35,13 +35,23 @@ Os horário reservados:
 CM103 - Professor Abel
 CM116 - Professor Abel
 
-Em Setembro/Outubro, via o MatematiCativa:
--Latex dia 22 de Setembro (sábado) de 8:30 a 11:30;
--Geogebra dias 29 de Setembro e 6 de Outubro  de 8:30 a 11:30.
+Em Setembro:
+- Dia 21 (sexta-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30; 
+- Dia 22 (sábado), curso Latex de 8:30 a 11:30;
+- Dia 25 (terça-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
+- Dia 29 (sábado), curso Geogebra de 8:30 a 11:30;
 
-Em Novembro, durante o J3M:
--Geogebra dias 6 e 8 de Novembro das 19:00 às 22:00;
--Latex dia 7 de Novembro das 19:00 às 22:00.
+Em Outubro:
+- Dia 2 (terça-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
+- Dia 6 (sábado), Curso Geogebra de 8:30 a 11:30;
+- Dia 9 (terça-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
+- Dia 16 (terça-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
+
+Em Novembro :
+- Dia 6 (terça-feira), curso Geogebra das 19:00 às 22:00;
+- Dia 7 (quarta-feira), curso Latex das 19:00 às 22:00;
+- Dia 8 (quinta-feira), curso Geogebra das 19:00 às 22:00;
+
 
 
 
