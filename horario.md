@@ -35,17 +35,12 @@ Os horário reservados:
 CM103 - Professor Abel
 CM116 - Professor Abel
 
-Em Setembro:
-- Dia 21 (sexta-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
-- Dia 22 (sábado), curso Latex de 8:30 a 11:30;
-- Dia 25 (terça-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
-- Dia 29 (sábado), curso Geogebra de 8:30 a 11:30;
-
 Em Outubro:
 - Dia 2 (terça-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
 - Dia 5 (sexta-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
 - Dia 6 (sábado), Curso Geogebra de 8:30 a 11:30;
 - Dia 9 (terça-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
+- Dia 11 (quinta-feira), projeto de extensão com professores, Prof. Carlos Henrique;
 - Dia 16 (terça-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
 
 Em Novembro :
