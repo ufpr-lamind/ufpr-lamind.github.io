@@ -46,7 +46,9 @@ Em Outubro:
 - Dia 5 (sexta-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
 - Dia 6 (sábado), Curso Geogebra de 8:30 a 11:30;
 - Dia 9 (terça-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
+- Dia 11 (quinta-feira), projeto de extensão com professores, Prof. Carlos Henrique, 7:30 as 11:30;
 - Dia 16 (terça-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
+- Dia 20 (sábado), Prof. Abel Siqueira;
 
 Em Novembro :
 - Dia 6 (terça-feira), curso Geogebra das 19:00 às 22:00;
