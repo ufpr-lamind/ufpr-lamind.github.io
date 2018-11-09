@@ -48,4 +48,5 @@ Em Novembro :
 - Dia 6 (terça-feira), curso Geogebra das 19:00 às 22:00;
 - Dia 7 (quarta-feira), curso Latex das 19:00 às 22:00;
 - Dia 8 (quinta-feira), curso Geogebra das 19:00 às 22:00;
+- Dia 9 (sexta-feira), aula Prof. Roberto Ribeiro das 15:30 às 17:30;
 
