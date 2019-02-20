@@ -2,10 +2,10 @@
 
 Dia      | Horário
 -------- | -------
-Segunda: | 08:30 às 11:30 e 12:30 às 19:30
-Terça:   | 08:30 às 11:30 e 12:30 às 15:00
-Quarta:  | 08:30 às 13:30 e 16:30 às 19:30
-Quinta:  | 08:30 às 19:30
+Segunda: | 08:30 às 19:30
+Terça:   | 08:30 às 12:30
+Quarta:  | 08:30 às 12:30 e 13:30 às 19:30
+Quinta:  | 08:30 às 13:30
 Sexta:   | 08:30 às 19:30
 
 Os horários dos estagiários:
@@ -13,12 +13,17 @@ Os horários dos estagiários:
 
 HH:MM | Seg | Ter | Qua | Qui | Sex
 --: | :--- | --- | --- | --- | ---
-**08:30 - 11:30** | Julio | Julio | Julio | Julio | Julio
-**11:30 - 12:30** |   X   |   X   | Renan | Renan | Renan
-**12:30 - 13:30** | Julio | Julio | Julio | Julio | Julio
-**13:30 - 15:30** | Renan | Julio |   X   | Julio | Renan
-**15:30 - 16:30** | Renan |   X   |   X   | Renan | Renan
-**16:30 - 19:30** | Renan |   X   | Renan | Renan | Renan
+**08:30 - 09:30** | Julio/Renan | Julio | Julio | Julio | Julio
+**09:30 - 10:30** | Julio/Renan | Julio | Julio | Renan | Julio/Renan
+**10:30 - 11:30** | Julio/Renan | Renan | Julio | Renan | Julio/Renan
+**11:30 - 12:30** |    Renan    | Renan | Julio | Julio | Julio
+**12:30 - 13:30** |    Julio    |   X   |   X   | Renan | Renan
+**13:30 - 14:30** |    Julio    |   X   | Julio |   X   | Julio/Renan
+**14:30 - 15:30** |    Julio    |   X   | Julio |   X   | Julio/Renan
+**15:30 - 16:30** |    Julio    |   X   | Julio |   X   | Julio/Renan
+**16:30 - 17:30** |    Julio    |   X   | Renan |   X   | Julio/Renan
+**17:30 - 18:30** |    Julio    |   X   | Renan |   X   | Renan
+**18:30 - 19:30** |    Julio    |   X   | Renan |   X   | Renan
 
 Os horário reservados:
 
@@ -26,27 +31,9 @@ Os horário reservados:
   --:      | :---  |  ---  |  ---  |  ---  | ---
  **08:30** |   X   |   X   |   X   |   X   |   X
  **11:30** |   X   |   X   |   X   |   X   |   X
- **15:30** | CM103 |   X   |   X   | CM103 |   X
- **17:30** |   X   |   X   |   X   |   X   | CM116
- **19:30** |   X   |   X   |   X   |   X   | CM116
+ **15:30** | CMM014|   X   | CMM014|   X   |   X
+ **17:30** |   X   |   X   |   X   |   X   |   X
+ **19:30** |   X   |   X   |   X   |   X   |   X
  **21:30** |   X   |   X   |   X   |   X   |   X
-
-
-CM103 - Professor Abel
-CM116 - Professor Abel
-
-Em Outubro:
-- Dia 2 (terça-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
-- Dia 5 (sexta-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
-- Dia 6 (sábado), Curso Geogebra de 8:30 a 11:30;
-- Dia 9 (terça-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
-- Dia 11 (quinta-feira), projeto de extensão com professores, Prof. Carlos Henrique das 7:30 as 11:30;
-- Dia 16 (terça-feira), aula Prof. Roberto Ribeiro de 15:30 a 17:30;
-- Dia 20 (sábado), Prof. Abel Siqueira;
-
-Em Novembro :
-- Dia 6 (terça-feira), curso Geogebra das 19:00 às 22:00;
-- Dia 7 (quarta-feira), curso Latex das 19:00 às 22:00;
-- Dia 8 (quinta-feira), curso Geogebra das 19:00 às 22:00;
-- Dia 9 (sexta-feira), aula Prof. Roberto Ribeiro das 15:30 às 17:30;
-
+ 
+CMM014 - Professor Abel

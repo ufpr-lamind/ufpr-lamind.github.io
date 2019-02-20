@@ -1,7 +1,6 @@
 # Estado Atual dos Computadores do Lamind
-  - x-1 e x-8 sem cabo de internet
-  - 1-2 ip clonado do 1-1 (esperando liberação)
-  - 5-8 está com o monitor danificado
+  - 1-2 sem internet
+  - 5-6 e 5-7 não funcionam
 
 ## Mapa
 
