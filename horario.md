@@ -35,5 +35,7 @@ Os horário reservados:
  **17:30** |   X   |   X   |   X   |   X   |   X
  **19:30** |   X   |   X   |   X   |   X   |   X
  **21:30** |   X   |   X   |   X   |   X   |   X
- 
+
 CMM014 - Professor Abel
+
+07/06 19h00 as 21h00 - Semana da Matemática - PET / Zeca
